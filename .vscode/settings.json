@@ -1,4 +1,11 @@
 {
     "workbench.colorCustomizations": {},
-    "python.pythonPath": "C:\\Users\\arthur.belanger\\AppData\\Local\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\arthur.belanger\\AppData\\Local\\anaconda3\\python.exe",
+    "python.linting.banditEnabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
